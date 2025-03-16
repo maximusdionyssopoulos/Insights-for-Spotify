@@ -1,3 +1,6 @@
+> [!NOTE]
+> Due to spotify changing their public API this project has been archived
+
 # Insights for Spotify
 A SwiftUI MacOS project to show users their top spotify data, playlists and provide some recommendations. 
 
